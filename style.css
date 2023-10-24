@@ -437,7 +437,7 @@ article .icon {
   display: flex;
   justify-content: center;
   border-radius: 2rem;
-  border: var(--button-border) 0.1 rem solid;
+  border: var(--button-border);
   border-color: var(--container-border);
   background: var(--background-color);
   margin: 2rem auto;

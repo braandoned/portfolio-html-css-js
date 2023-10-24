@@ -297,7 +297,7 @@ section {
 }
 
 .btn-color-2:hover {
-  border: var(--button-border) 0.1rem solid;
+  border: var(--button-border);
   background: var(--secondary-color);
 }
 
@@ -342,7 +342,7 @@ section {
   flex: 1;
   background: var(--primary-color-2);
   border-radius: 2rem;
-  border: var(--button-border) 0.1rem solid;
+  border: var(--button-border);
   border-color: var(--container-border);
   text-align: center;
 }

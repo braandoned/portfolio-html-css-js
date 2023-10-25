@@ -16,4 +16,4 @@ A personal portfolio website showcasing my projects, experience, and the program
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/braandoned/portfolio-html-css-js.git
+git clone https://github.com/braandoned/bran.bio.git
